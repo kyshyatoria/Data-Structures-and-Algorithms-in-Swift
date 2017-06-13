@@ -23,3 +23,15 @@ Comments and Suggestions are welcome.
 - reverListInGroup(): Reverse a given list in groups of k 
 - addTwoNumbersRepresentedByLinkedList() : Adds two numbers represented by linked list 
 
+#Binary Search Tree 
+- insert() : Insert a node in tree 
+- search() : Search for a node in tree
+- deleteTree() : Delete the tree
+- inOrderTraversal()
+- preOrderTraversal()
+- postOrderTraversal()
+- min() : Minimum value node in tree
+- max() : Max value node in tree
+- height()
+- predecssor()
+- leafNodes()
